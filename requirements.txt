@@ -2,7 +2,5 @@ streamlit
 pandas
 plotly
 numpy
-sklearn.preprocessing
-sklearn.cluster
 
 
